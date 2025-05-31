@@ -1,0 +1,75 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f5f5f5" />
+  
+  <!-- Header -->
+  <rect width="800" height="60" fill="#4a148c" />
+  <text x="20" y="38" font-family="Arial" font-size="24" fill="white">NexusAI: Document Management</text>
+  
+  <!-- Sidebar -->
+  <rect x="0" y="60" width="200" height="440" fill="#ffffff" />
+  <rect x="10" y="80" width="180" height="40" rx="5" fill="#f5f5f5" />
+  <text x="25" y="105" font-family="Arial" font-size="16" fill="#424242">Chat</text>
+  
+  <rect x="10" y="130" width="180" height="40" rx="5" fill="#e0e0e0" />
+  <text x="25" y="155" font-family="Arial" font-size="16" fill="#424242">Documents</text>
+  
+  <rect x="10" y="180" width="180" height="40" rx="5" fill="#f5f5f5" />
+  <text x="25" y="205" font-family="Arial" font-size="16" fill="#424242">Memories</text>
+  
+  <rect x="10" y="230" width="180" height="40" rx="5" fill="#f5f5f5" />
+  <text x="25" y="255" font-family="Arial" font-size="16" fill="#424242">Settings</text>
+  
+  <!-- Document Area -->
+  <rect x="200" y="60" width="600" height="440" fill="#ffffff" />
+  
+  <!-- Search and Filter -->
+  <rect x="220" y="80" width="560" height="50" rx="5" fill="#f5f5f5" />
+  <rect x="240" y="90" width="300" height="30" rx="15" fill="white" stroke="#bdbdbd" />
+  <text x="260" y="110" font-family="Arial" font-size="14" fill="#9e9e9e">Search documents...</text>
+  
+  <rect x="560" y="90" width="100" height="30" rx="5" fill="white" stroke="#bdbdbd" />
+  <text x="575" y="110" font-family="Arial" font-size="14" fill="#424242">Filter u25be</text>
+  
+  <rect x="670" y="90" width="90" height="30" rx="5" fill="#4a148c" />
+  <text x="685" y="110" font-family="Arial" font-size="14" fill="white">Upload</text>
+  
+  <!-- Document Cards -->
+  <!-- Document 1 -->
+  <rect x="220" y="150" width="270" height="120" rx="5" fill="white" stroke="#e0e0e0" />
+  <rect x="240" y="170" width="50" height="60" rx="5" fill="#e3f2fd" />
+  <text x="255" y="205" font-family="Arial" font-size="20" fill="#2196f3">PDF</text>
+  <text x="300" y="180" font-family="Arial" font-size="16" font-weight="bold" fill="#424242">Project Proposal</text>
+  <text x="300" y="200" font-family="Arial" font-size="14" fill="#757575">Added: May 28, 2025</text>
+  <text x="300" y="220" font-family="Arial" font-size="14" fill="#757575">Size: 2.4 MB</text>
+  
+  <!-- Document 2 -->
+  <rect x="510" y="150" width="270" height="120" rx="5" fill="white" stroke="#e0e0e0" />
+  <rect x="530" y="170" width="50" height="60" rx="5" fill="#e8f5e9" />
+  <text x="545" y="205" font-family="Arial" font-size="20" fill="#4caf50">XLS</text>
+  <text x="590" y="180" font-family="Arial" font-size="16" font-weight="bold" fill="#424242">Financial Report</text>
+  <text x="590" y="200" font-family="Arial" font-size="14" fill="#757575">Added: May 25, 2025</text>
+  <text x="590" y="220" font-family="Arial" font-size="14" fill="#757575">Size: 1.8 MB</text>
+  
+  <!-- Document 3 -->
+  <rect x="220" y="290" width="270" height="120" rx="5" fill="white" stroke="#e0e0e0" />
+  <rect x="240" y="310" width="50" height="60" rx="5" fill="#fce4ec" />
+  <text x="245" y="345" font-family="Arial" font-size="20" fill="#e91e63">DOCX</text>
+  <text x="300" y="320" font-family="Arial" font-size="16" font-weight="bold" fill="#424242">Meeting Notes</text>
+  <text x="300" y="340" font-family="Arial" font-size="14" fill="#757575">Added: May 20, 2025</text>
+  <text x="300" y="360" font-family="Arial" font-size="14" fill="#757575">Size: 0.5 MB</text>
+  
+  <!-- Document 4 -->
+  <rect x="510" y="290" width="270" height="120" rx="5" fill="white" stroke="#e0e0e0" />
+  <rect x="530" y="310" width="50" height="60" rx="5" fill="#fff3e0" />
+  <text x="545" y="345" font-family="Arial" font-size="20" fill="#ff9800">IMG</text>
+  <text x="590" y="320" font-family="Arial" font-size="16" font-weight="bold" fill="#424242">Presentation Slides</text>
+  <text x="590" y="340" font-family="Arial" font-size="14" fill="#757575">Added: May 15, 2025</text>
+  <text x="590" y="360" font-family="Arial" font-size="14" fill="#757575">Size: 3.2 MB</text>
+  
+  <!-- Pagination -->
+  <rect x="350" y="430" width="300" height="30" rx="5" fill="#f5f5f5" />
+  <text x="380" y="450" font-family="Arial" font-size="14" fill="#424242">◀ Previous</text>
+  <text x="480" y="450" font-family="Arial" font-size="14" fill="#424242">Page 1 of 3</text>
+  <text x="580" y="450" font-family="Arial" font-size="14" fill="#424242">Next ▶</text>
+</svg>

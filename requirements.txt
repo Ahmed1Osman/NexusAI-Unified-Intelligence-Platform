@@ -1,0 +1,27 @@
+# Dependencies for unified agent with advanced features
+python-dotenv==1.0.0
+requests==2.31.0
+openai==1.3.0
+
+# PDF extraction
+PyPDF2==3.0.1
+pdfminer.six==20221105
+
+# OCR capabilities
+pytesseract==0.3.10
+Pillow==10.0.0
+
+# Vector database
+scikit-learn==1.3.0
+numpy==1.24.3
+pandas==2.0.3
+faiss-cpu==1.7.4
+
+# API Server
+fastapi==0.104.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+jinja2==3.1.2
+
+# CORS support
+starlette==0.27.0

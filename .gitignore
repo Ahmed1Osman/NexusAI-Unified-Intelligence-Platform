@@ -1,0 +1,36 @@
+# Exclude main file as requested
+unified_agent.py
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Node modules
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+frontend/build/
+
+# Local development settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
