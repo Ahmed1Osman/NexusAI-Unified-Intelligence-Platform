@@ -25,7 +25,7 @@ NexusAI is a comprehensive AI assistant platform that seamlessly integrates mult
 
 ### Chat Interface
 <div align="center">
-  <img src="screenshots/chat_interface.png" alt="Chat Interface" width="800">
+  <img src="screenshots/chat_interface.svg" alt="Chat Interface" width="800">
 </div>
 
 ### Document Management
